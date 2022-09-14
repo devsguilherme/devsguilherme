@@ -1,4 +1,8 @@
-# Hi Guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">. I'm Guilherme   
+<h1>
+  Hi Guys 
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+  I'm Guilherme
+</h1>
 
 <p> 
   I am a web development student at Fatec Jahu. </br>
@@ -36,7 +40,7 @@
 
 <div>
   <a 
-    href="https://www.linkedin.com/in/guilhermesantosdeveloper" target="_blank"
+    href="https://www.linkedin.com/in/guilhermesantosdeveloper"
   >
     <img 
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
