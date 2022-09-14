@@ -8,7 +8,7 @@
   I am a web development student at Fatec Jahu. </br>
   I created this account to show my projects and learn more </br>
   about <strong>Design</strong> and <strong>Front-end</strong> programming 
-  that I love so much
+  that I love so much ❤️
 </p>
 
 ## My Skills
