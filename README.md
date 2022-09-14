@@ -36,7 +36,7 @@
 
 <div>
   <a 
-    href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" 
+    href="https://www.linkedin.com/in/guilhermesantosdeveloper" 
     target="_blank"
   >
     <img 
@@ -54,7 +54,7 @@
     >
   </a>
   <a 
-    href = "mailto:contatorafaballerini@gmail.com"
+    href = "mailto:guilhermesantosdeveloper72@gmail.com"
   >
     <img 
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
@@ -62,7 +62,7 @@
     >
   </a>
   <a 
-    href="https://discord.gg/wagxzStdcR" 
+    href="https://discord.com/channels/327861810768117763/1013896006741524520" 
     target="_blank"
   >
     <img 
